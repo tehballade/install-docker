@@ -1,5 +1,3 @@
-#!/bin/bash
-
 apt-get remove -y docker.io docker-doc docker-compose \
   docker-compose-v2 podman-docker containerd runc
 
